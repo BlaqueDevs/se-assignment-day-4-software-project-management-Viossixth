@@ -15,15 +15,20 @@ Detailed test planning, regular code reviews, adopting clear definition of quali
 Defining project scope allows the team and client to have clear and achievable expectations and objectives. A work breakdown structure is a tool that breaks down the project scope into smaller bit size tasks. This tool is used for estimation of time, cost and resource allocation.
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 A detailed project schedule allows for the project manager to allocate resources, estimate costs and time required for completion for each sprint. A gnatt charts provides a complete overview of the project include the length required to complete tasks and the sequence at which the tasks can be completed.
-## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience? 
+My software aims to achieve two goals all in the name of efficiency. I aim to create a company that will sell biodiesel either to the local industry or for import. Biodiesel can be made from a few sources such as used motor oil and used vegetable oils. I want to create a platform where restaurants, engine shops and dealerships can sell or donate their used motor oils or used vegetable/animal derived fats/oils. These companies/ groups also struggle to get rid of the excessive amounts of oils they have due to the nature of their business. This would create a safer method of disposal for this business and a godd supply of raw materials for my PetroChemical Company.
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+Clearly defining the problem also allows for greater understanding of the hurdle needed to be overcome to achieve the solution.
 
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+The software solution connects many users to our company, with the hopes of unload their used motor oil or vegetable oil.
 
 ## 11. What are the main features or functionalities that make your software stand out?
-
+The main functionality of our software is to connect businesses/groups to our company. Those who have an excess amount of oil and vegetable oil will connect to our business. The platform will allow for quick, aggrements to be made and will link the user to our company and we'll be able to colelct the oil.
 ## 12. What data is available regarding the market size and growth potential for your software?
+Data to estimate the amount of oil and motor oils used within the country is readily available. Estimation for the amount of motor oils and vegetable oils consumed by busineses is readily available. The growth potential is also big, given that there is a strong push for renewable sources of fuels, sustainable fuels and improving rrecycling of goods.
 
 ## 13. How can understanding market trends inform your software’s positioning and development?
+Understanding the market trends can allow for strategic and growth centered positioning. An example is that the world is pushing for recyling, sustainability and being more efficient with our resources. With our understanding of these policies and attitudes from government and and private sector, it is possible to attract more businesses and create more value and also easier to attrack more funding.
 
